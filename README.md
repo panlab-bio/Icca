@@ -7,3 +7,5 @@ In the first phase, the completeness of the initial assembly results is assessed
 The second phase locates these missing single-copy genes in contigs and identified the entire missing regions. 
 In the third phase, the HiFi reads related to the missing genomic regions are recalled, and these reads are then input into an assembly tool to regenerate new sequences. 
 In the fourth phase, the newly obtained sequences are aligned one by one with the chromosome-level assembly, gradually in-creasing the level of completeness. 
+
+simulated_ Hifi.sh and simulated_ Genome.sh is used to generate simulation data
